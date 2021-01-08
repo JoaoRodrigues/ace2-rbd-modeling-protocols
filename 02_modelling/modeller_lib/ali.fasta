@@ -1,0 +1,9 @@
+>P1; SEQNAME
+sequence:SEQNAME::::::::
+ACE2_SEQ/
+VRBD_SEQ*
+
+>P1; template
+structureX:template: FIRST: @: END:::::
+ACE2_TEMPLATE/
+VRBD_TEMPLATE*
